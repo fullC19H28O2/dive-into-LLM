@@ -30,4 +30,5 @@ plt.ylabel('Sepal Length (cm)')
 plt.title('Petal Length vs Sepal Length : Regresyon Eğrisi')
 plt.legend()
 plt.show()
-plt.show()
+plt.show
+
